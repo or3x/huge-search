@@ -47,6 +47,11 @@ margin-bottom: 75px;
 	width: 120px;
 	height: 120px;
 }
+.button img:hover{
+ -webkit-transform: scale(1.2);
+ -moz-transform: scale(1.2);
+ -o-transform: scale(1.2);
+ }
 
 					/* Placeholder text decor */
 
